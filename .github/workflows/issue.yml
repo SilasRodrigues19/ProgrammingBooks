@@ -1,0 +1,14 @@
+name: Labeling new issue
+on:
+  issues:
+    types: ['opened', 'edited']
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Renato66/auto-label@v2
+        with:
+          repo-token: ${{ secrets.ISSUE_TOKEN }}
+          labels-synonyms: '{"CSS":["SASS","LESS","Bootstrap", "Tailwind", "Material UI", "Chakra UI"],"JavaScript":["TypeScript", "React", "VueJS", "Angular", "Svelte"]}'
+          labels-not-allowed: '["Falta de informações"]'
+          default-labels: '["PDF"]'
