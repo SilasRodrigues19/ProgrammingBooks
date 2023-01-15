@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: Renato66/auto-label@v2
         with:
-          repo-token: ${{ secrets.PDF_ISSUE_TOKEN || env.issue_token}}
+          repo-token: ${{ secrets.PDF_ISSUE_TOKEN }}
           labels-synonyms: '{"CSS":["SASS","LESS","Bootstrap", "Tailwind", "Material UI", "Chakra UI"],"JavaScript":["TypeScript", "React", "VueJS", "Angular", "Svelte"]}'
           labels-not-allowed: '["Falta de informações"]'
           default-labels: '["PDF"]'
