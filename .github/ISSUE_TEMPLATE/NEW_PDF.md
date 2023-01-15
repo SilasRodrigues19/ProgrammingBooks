@@ -1,3 +1,10 @@
+---
+name: Adicionar um PDF
+about: Siga todas as instruções do template antes de enviar um PDF, caso contrário ele será excluído e o usuário será proibido de enviar informações.
+title: "[Nome da linguagem] Nome do PDF"
+---
+
+
 PEGUE O PDF SALVO NO SEU COMPUTADOR, CLIQUE E ARRASTE PARA DENTRO DESSE CAMPO DE MENSAGEM, O GITHUB CRIARÁ AUTOMATICAMENTE UM UPLOAD
 
 NO TÍTULO LOGO ACIMA, O PADRÃO DEVE SER IGUAL AO EXEMPLO ABAIXO:
