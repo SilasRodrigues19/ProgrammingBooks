@@ -9,6 +9,6 @@ jobs:
       - uses: Renato66/auto-label@v2
         with:
           repo-token: ${{ secrets.PDF_ISSUE_TOKEN }}
-          labels-synonyms: '{"CSS":["SASS","LESS","Bootstrap", "Tailwind", "Material UI", "Chakra UI"],"JavaScript":["TypeScript", "React", "VueJS", "Angular", "Svelte"]}'
+          labels-synonyms: '{"CSS":["SASS","LESS","Bootstrap", "Tailwind", "Material UI", "Chakra UI"],"JavaScript":["TypeScript", "React", "ReactJS", "VueJS", "Angular", "Svelte"], "C#":["CSharp", "C Sharp", "C-Sharp"]}'
           labels-not-allowed: '["Falta de informações"]'
           default-labels: '["PDF"]'
