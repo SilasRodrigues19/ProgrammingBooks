@@ -1,7 +1,7 @@
 ---
 name: Adicionar um PDF
 about: Siga todas as instruções do template antes de enviar um PDF pra que funcione corretamente
-title: "[Linguagem | Ferramenta | Tecnologia | ...] Nome do PDF"
+title: "[Linguagem | Ferramenta | Tecnologia | Outro] Nome do PDF"
 ---
 
 
@@ -15,7 +15,11 @@ Exemplo: [JavaScript] Clean code JavaScript
 -->
 
 <!--
-3. Abaixo estão listadas as labels permitidas, apague as linhas que não correspondem ao PDF enviado
+3. Abaixo estão listadas as labels permitidas, apague as linhas que não correspondem ao PDF enviado.
+
+Você pode consultar as labels no link abaixo também e sugerir alguma label que gostaria que existisse:
+
+https://github.com/SilasRodrigues19/ProgrammingBooks/labels
 -->
 
 
@@ -33,6 +37,3 @@ Exemplo: [JavaScript] Clean code JavaScript
 - SQL
 - UI
 - UX
-
-
-[Exemplo de como deverá ficar](https://drive.google.com/file/d/1rfLIGK6RwEKkr5FoKgm2vx1tbZkmuChP/view?usp=share_link)
