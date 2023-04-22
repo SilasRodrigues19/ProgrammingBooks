@@ -15,6 +15,8 @@
   <h3 align="center" id="ProgrammingBooks">Programming Books</h3>
 
   <p align="center">
+    <a href="https://github.com/SilasRodrigues19/ProgrammingBooks/issues/">Ver PDFS</a>
+    &#124;	
     <a href="https://github.com/SilasRodrigues19/ProgrammingBooks/issues/new/choose">Enviar um PDF</a>
     &#124;	
     <a href="https://github.com/SilasRodrigues19/ProgrammingBooks/issues/new/choose">Sugerir</a>
